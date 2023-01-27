@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple universal tracker utility for randomizer games",
   "scripts": {
-    "start": "serve",
+    "start": "serve"
   },
   "dependencies": {
     "serve": "^10.0.1"
