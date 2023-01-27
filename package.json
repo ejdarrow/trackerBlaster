@@ -1,0 +1,12 @@
+{
+  "name": "tracker_blaster",
+  "version": "1.0.0",
+  "description": "A simple universal tracker utility for randomizer games",
+  "scripts": {
+    "start": "serve",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Darrow"
+}
